@@ -51,3 +51,6 @@ print(weighted_logsumexp(logx, w, dim=0))
 
 ## Requirements
 - PyTorch 1.7.0 or higher, Tested with PyTorch 2.0.0 and 2.0.1
+
+## License
+This code is provided under the Apache License 2.0. You can find the full license text in the LICENSE.txt file.
